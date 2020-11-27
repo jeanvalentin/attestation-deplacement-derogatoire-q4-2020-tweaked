@@ -1,9 +1,7 @@
 
 # Tweak
 
-Exemple d'utilisation : http://jval.alwaysdata.net/?firstname=Camille&lastname=Dupont&birthday=01%2F01%2F1970&placeofbirth=Paris&address=999+avenue+de+France&city=Paris&zipcode=75001&reasons=travail
-
-Modifiez les paramètres pour que ça corresponde à vos informations, et voilà, attestation instantanée. Si vous ne voyez que "slip de bain", c'est que c'est mal configuré.
+__Ce repo est obsolète.__
 
 Readme original ci-dessous.
 
